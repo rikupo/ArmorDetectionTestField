@@ -15,5 +15,9 @@ def test():
     return None
 
 
+def load_specified_images():
+    return None
+
+
 if __name__ == '__main__':
     main()
